@@ -17,6 +17,5 @@ This script runs on Python’s built-in modules, so no need to install anything 
 
 ### **2️⃣ Run the Script**  
 Open your terminal and run:  
-```sh
-python remotework.py
+python remoteok_jobs.py
 When it's done, check for remoteok_jobs.csv—it’ll have the latest jobs.
